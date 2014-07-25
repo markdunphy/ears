@@ -1,4 +1,4 @@
-Ears
+Ears [![Build Status](https://travis-ci.org/markdunphy/ears.svg?branch=master)](https://travis-ci.org/markdunphy/ears)
 ====
 
 A PHP RabbitMQ library using php-amqplib
