@@ -50,6 +50,9 @@ class Ears {
 
   } // getPublisher
 
+  /**
+   * @return markdunphy\Ears\Channel
+   */
   public function getConsumer() {
 
     return $this->getChannel();
